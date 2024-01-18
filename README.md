@@ -9,7 +9,7 @@ This app was built to help businesses or companies keep track of their employees
 Run 'npm i' in the integrated terminal to install necessary packages for this app. 
 
 ## Usage
-The user opens the index.js file and then opens the integrated terminal. They then run 'node index' to start the app. The app then presents a list of option for the user to choose from: "View all departments", "View all roles", "View all employees", "Add a department", "Add a role", "Add an employee", "Update an employee role". The user selects their desired choice of action. Once an option is selected, the user follows the basic prompts to execute their enquiry. Refer to the [walk through video](https://drive.google.com/file/d/19fVSwUzMoR2pKgMzXyoUDqkQq9plwQm0/viewx) a run through of how this app works.
+The user opens the index.js file and then opens the integrated terminal. They then run 'node index' to start the app. The app then presents a list of option for the user to choose from: "View all departments", "View all roles", "View all employees", "Add a department", "Add a role", "Add an employee", "Update an employee role". The user selects their desired choice of action. Once an option is selected, the user follows the basic prompts to execute their enquiry. Refer to the [walk through video](https://drive.google.com/file/d/19fVSwUzMoR2pKgMzXyoUDqkQq9plwQm0/viewx) for a run through of how this app works.
 
 ## Credits
 * [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) <br>
